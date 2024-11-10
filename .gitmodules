@@ -1,0 +1,3 @@
+[submodule "OS-Course-Lab"]
+	path = OS-Course-Lab
+	url = https://github.com/SJTU-IPADS/OS-Course-Lab.git
