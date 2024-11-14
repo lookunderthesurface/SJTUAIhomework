@@ -1,1 +1,5 @@
-/CV_HW1/output/
+CV_HW1/output/
+
+BIIntel/fashionmnist
+BIIntel/logs
+BIIntel/mnist_data
